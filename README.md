@@ -1,1 +1,2 @@
-# bmi-calc-javascript-project
+# BMICalculator-project
+My project is a BMI Calculator, an application designed to calculate the Body Mass Index (BMI) based on a person's weight and height. The calculator takes inputs for weight (in kilograms and height (in meters or feet), and then computes the BMI, providing a numerical value. It also classifies the result into categories like underweight, normal weight, overweight, or obese, helping users assess their health status.
